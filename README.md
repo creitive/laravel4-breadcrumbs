@@ -53,7 +53,7 @@ Additionally, having this as a separate package enables us to move forward with 
 Laravel 5
 ---------
 
-For Laravel 5 support, a separate package will soon be available, and it will be linked from this repo as soon as it's online.
+For Laravel 5 support, visit the [creitive/laravel5-breadcrumbs](https://github.com/creitive/laravel5-breadcrumbs) package.
 
 
 License
