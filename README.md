@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/creitive/laravel4-breadcrumbs.png)](https://travis-ci.org/creitive/laravel4-breadcrumbs) [![Latest Stable Version](https://poser.pugx.org/creitive/laravel4-breadcrumbs/version.png)](https://packagist.org/packages/creitive/laravel4-breadcrumbs) [![Total Downloads](https://poser.pugx.org/creitive/laravel4-breadcrumbs/d/total.png)](https://packagist.org/packages/creitive/laravel4-breadcrumbs)
+[![Latest Stable Version](https://poser.pugx.org/creitive/laravel4-breadcrumbs/version.png)](https://packagist.org/packages/creitive/laravel4-breadcrumbs) [![Total Downloads](https://poser.pugx.org/creitive/laravel4-breadcrumbs/d/total.png)](https://packagist.org/packages/creitive/laravel4-breadcrumbs)
 
 Laravel 4 Breadcrumbs
 =====================
