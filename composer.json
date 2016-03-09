@@ -19,7 +19,7 @@
         "illuminate/support": "4.x"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Creitive\\Breadcrumbs\\": "src"
         }
     },
